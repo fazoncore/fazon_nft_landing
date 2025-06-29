@@ -1,21 +1,20 @@
-# FAZON NFT Landing
+# FAZON BOOK I — NFT TIER I Landing
 
-Official NFT Gateway for **FAZON BOOK I — Tier I Access**  
-Powered by Web3, MetaMask, iFrame embedding, and token validation.
+## ENGLISH:
+This landing page promotes the FAZON BOOK I: Theory of Coincidence.
+You can:
+- View the project description
+- Connect your MetaMask wallet
+- Purchase or access the NFT
+- Enter the book through gated access (Tier I)
 
-## Features
-- 🔐 NFT Access to the book
-- 📖 Purchase link to book (Zenodo or FAZON site)
-- 🧠 MetaMask integration (wallet check)
-- 🌐 Web3 gateway + iFrame module
-- 📱 Mobile-ready layout
+## РУССКИЙ:
+Это лендинг для книги FAZON BOOK I (Теория Совпадения).
+Вы можете:
+- Прочитать описание проекта
+- Подключить MetaMask
+- Приобрести или активировать NFT
+- Получить доступ к книге (TIER I)
 
-## How to Use
-1. Clone repo or open `index.html` in browser
-2. Connect MetaMask
-3. View token-gated content
-
-## Coming Soon
-- FAZON BOOK II
-- NFT upgrades
-- MERCH drop
+Contact: fazon@fazoncore.org
+Website: https://fazon.org
